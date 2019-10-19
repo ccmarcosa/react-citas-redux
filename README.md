@@ -1,2 +1,17 @@
 # react-citas-redux
-Administrador de pacientes de veterinaria usando React Hook y Redux
+Veterinary patient manager using React Hooks and Redux
+---
+
+To run this project on your local computer follow these steps:
+
+**1. Clone or download the project**
+
+**2. Install the dependencies**
+```
+npm install
+```
+
+**3. Run the project**
+```
+npm start
+```
